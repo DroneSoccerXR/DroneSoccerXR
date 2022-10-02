@@ -1,19 +1,18 @@
 ## 👋 Hi, Context 🤔 ?
 
-Welcome to you. What is the context of this project ?
-We are Éloi and Johan. 
-I, Eloi, love code, teaching and XR.
-He, Johan, love drone, teaching and VR.
+Welcome to you. What is the context of this project ?  
+We are Éloi and Johan.   
+I, Eloi, love code, teaching and XR.  
+He, Johan, love drone, teaching and VR.  
 
-After a talk about creating an application on the Lynx R1, Johan explained me that he is working on the creation of a community around Drone Soccer.
-I know nothing about drone but the challenge of creating a eSport game on Lynx-R1 that we could create around virtual pratice to real world application triggered my curiosity.
+After a talk about creating an application on the Lynx R1, Johan explained me that he is working on the creation of a community around Drone Soccer.  
+I know nothing about drone but the challenge of creating a eSport game on Lynx-R1 that we could create around virtual pratice to real world application triggered my curiosity.  
+You can find he our collaboration on this goal.  
 
-You can find he our collaboration on this goal.
+Most of the repository here are going to be code to use in Unity with in direct link to Drone Soccer.  
+We could do plenty of other drone topic, but to avoid spreading around and never finish this project, it is going to be mainly Drone Soccer.  
 
-Most of the repository here are going to be code to use in Unity with in direct link to Drone Soccer.
-We could do plenty of other drone topic, but to avoid spreading around and never finish this project, it is going to be mainly Drone Soccer.
-
-We hope you enjoy. 
+We hope you enjoy.   
 
 Contact us: 
 - 💬 Community Discord: https://discord.gg/anwTwhExb5
