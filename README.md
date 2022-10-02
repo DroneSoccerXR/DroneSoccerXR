@@ -19,19 +19,15 @@ We hope you enjoy.
 
 Contact us: 
 - 💬 Community Discord: https://discord.gg/anwTwhExb5
-- Project learder: https://www.linkedin.com/in/johan-beeckman-91120715/
+- Project leader: https://www.linkedin.com/in/johan-beeckman-91120715/
 - Project Developer: https://www.linkedin.com/in/eloistree/
 
 ## What is Drone soccer 🤖⚽?
 
-> ![image](https://user-images.githubusercontent.com/20149493/193133888-28fa809d-20dd-431d-8f4f-24988ab4c10f.png)
+![image](https://user-images.githubusercontent.com/20149493/193133888-28fa809d-20dd-431d-8f4f-24988ab4c10f.png)
 
->Drone soccer
->
->Drone soccer is a fast-growing new air sport that involves two teams up to five players per team whose aim is to score the highest number of goals.
->
->Fun to both watch and play, drone soccer is a futuristic sport that takes traditional football to a whole new level – literally!
->
+>Drone soccer is a fast-growing new air sport that involves two teams up to five players per team whose aim is to score the highest number of goals.  
+>Fun to both watch and play, drone soccer is a futuristic sport that takes traditional football to a whole new level – literally!  
 > Drone Soccer has been included in the FAI Sporting Code as a provisional class (F9A) since 1st May 2019, and the first  international tournament - demonstration - took place in November in Korea . 
 > __Rules and information:__
 > - https://www.fai.org/drone-sports-soccer  
