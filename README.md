@@ -1,6 +1,8 @@
 ## 👋 Hi, Context 🤔 ?
 
-Welcome to you. What is the context of this project ?  
+Welcome to you.  
+  
+What is the context of this project ?  
 We are Éloi and Johan.   
 I, Eloi, love code, teaching and XR.  
 He, Johan, love drone, teaching and VR.  
