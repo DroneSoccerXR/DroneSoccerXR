@@ -29,10 +29,8 @@ Contact us:
 >
 >Fun to both watch and play, drone soccer is a futuristic sport that takes traditional football to a whole new level – literally!
 >
-> Drone Soccer has been included in the FAI Sporting Code as a provisional class (F9A) since 1st May 2019, and the first  international tournament - demonstration - took place in November in Korea .
-__Rules and information:__ 
-- https://www.fai.org/drone-sports-soccer
-- https://www.fai.org/sites/default/files/documents/minutes_annex_7j_-_f9a_drone_soccer_rules.pdf
+> Drone Soccer has been included in the FAI Sporting Code as a provisional class (F9A) since 1st May 2019, and the first  international tournament - demonstration - took place in November in Korea . __Rules and information:__ https://www.fai.org/drone-sports-soccer  
+Rules: https://www.fai.org/sites/default/files/documents/minutes_annex_7j_-_f9a_drone_soccer_rules.pdf  
 
 [![image](https://user-images.githubusercontent.com/114882444/193476322-e5bf48c4-cd71-49ed-beee-b00127106519.png)](https://www.youtube.com/watch?v=gh-I9qe4-0c)  
 Video: https://www.youtube.com/watch?v=gh-I9qe4-0c     
