@@ -1,8 +1,8 @@
 ## 👋 Hi, Context 🤔 ?
 
 We are Éloi and Johan.   
-I, Eloi, love code, teaching and XR.  
 He, Johan, love drone, teaching and VR.  
+I, Eloi, love code, teaching and XR.  
 
 After a talk about creating an application on the Lynx R1, Johan explained me that he is working on the creation of a community around Drone Soccer.  
 I know nothing about drone but the challenge of creating a eSport game on Lynx-R1 that we could create around virtual pratice to real world application triggered my curiosity.  
