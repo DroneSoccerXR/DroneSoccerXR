@@ -28,8 +28,8 @@ Contact us:
 
 >Drone soccer is a fast-growing new air sport that involves two teams up to five players per team whose aim is to score the highest number of goals.  
 >Fun to both watch and play, drone soccer is a futuristic sport that takes traditional football to a whole new level – literally!  
-> Drone Soccer has been included in the FAI Sporting Code as a provisional class (F9A) since 1st May 2019, and the first  international tournament - demonstration - took place in November in Korea . 
-> __Rules and information:__
+> Drone Soccer has been included in the FAI Sporting Code as a provisional class (F9A) since 1st May 2019, and the first  international tournament - demonstration - took place in November in Korea .   
+> __Rules and information:__  
 > - https://www.fai.org/drone-sports-soccer  
 > - https://www.fai.org/sites/default/files/documents/minutes_annex_7j_-_f9a_drone_soccer_rules.pdf  
 
