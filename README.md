@@ -48,6 +48,9 @@ Contact us:
 - Project leader: https://www.linkedin.com/in/johan-beeckman-91120715/
 - Project Developer: https://www.linkedin.com/in/eloistree/
 
+Support the project:
+- https://en.tipeee.com/dronesoccerxr/
+
 ## What is Drone soccer 🤖⚽?
 
 ![image](https://user-images.githubusercontent.com/20149493/193133888-28fa809d-20dd-431d-8f4f-24988ab4c10f.png)
