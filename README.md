@@ -51,6 +51,7 @@ Contact us:
 Support the project:
 - Tipeee https://en.tipeee.com/dronesoccerxr/
 - Twitch https://www.twitch.tv/dronesoccerxr
+- Download the game: https://dronesoccerxr.itch.io
 
 ## What is Drone soccer 🤖⚽?
 
