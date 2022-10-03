@@ -12,7 +12,7 @@ What are the dream goal directions of this project for now :
   - Learn to create Drone mini game in small area < 7x7 meters
 - Drone fan that don't own a drone.
   - This project aim to a have "drone simulation" for VR/AR headset.
-  - I, Éloi, would love to have a live stream room where viewers on Twitch can interact with real drone
+  - We would love to have a live stream room where viewers on Twitch can interact with real drone
     - With small script, chat commmands or sometime remote network full control of the drone(s)
 - Assets seeker
   - You can find some 3D assets we craft for the project
