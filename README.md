@@ -1,4 +1,27 @@
-## 👋 Hi, Context 🤔 ?
+## Are you at the right place 🤔 ?
+
+What are the dream goal directions of this project for now :
+- Drone pilote
+  - Learn about Drone and the eSport of Drone Soccer with educational Unity3D games .
+  - Train on Drone Soccer with XR Oculus and Lynx Mini Games.
+  - Train on virtual drone to switch on real drone when you feel ready
+- Developer
+  - Learn C# or LUA by creating the AI of drones in a Drone Soccer game.
+  - Learn to create Drone mini game in small area < 7x7 meters
+- Drone fan that don't own a drone.
+  - This project aim to a have "drone simulation" for VR/AR headset.
+  - I, Éloi, would love to have a live stream room where viewers on Twitch can interact with real drone
+    - With small script, chat commmands or sometime remote network full control of the drone(s)
+- Assets seeker
+  - You can find some 3D assets we craft for the project
+  - You can find some Unity Package to start your own project 
+  - You can find some STL to print if you want to start this eSport
+
+ 
+
+
+
+## 👋 Hi, Context ?
 
 We are Éloi and Johan.   
 He, Johan, love drone, teaching and VR.  
