@@ -49,7 +49,8 @@ Contact us:
 - Project Developer: https://www.linkedin.com/in/eloistree/
 
 Support the project:
-- https://en.tipeee.com/dronesoccerxr/
+- Tipeee https://en.tipeee.com/dronesoccerxr/
+- Twitch https://www.twitch.tv/dronesoccerxr
 
 ## What is Drone soccer 🤖⚽?
 
