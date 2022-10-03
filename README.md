@@ -7,6 +7,7 @@ What are the dream goal directions of this project for now :
   - Train on virtual drone to switch on real drone when you feel ready
 - Developer
   - Learn C# or LUA by creating the AI of drones in a Drone Soccer game.
+    - Have the ability to try your code on real drone at th end of the workshop. 
   - Learn to create Drone mini game in small area < 7x7 meters
 - Drone fan that don't own a drone.
   - This project aim to a have "drone simulation" for VR/AR headset.
