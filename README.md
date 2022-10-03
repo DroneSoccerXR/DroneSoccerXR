@@ -5,6 +5,7 @@ What are the dream goal directions of this project for now :
   - Learn about Drone and the eSport of Drone Soccer with educational Unity3D games .
   - Train on Drone Soccer with XR Oculus and Lynx Mini Games.
   - Train on virtual drone to switch on real drone when you feel ready
+  - Train your drone skills on small XR games
 - Developer
   - Learn C# or LUA by creating the AI of drones in a Drone Soccer game.
     - Have the ability to try your code on real drone at th end of the workshop. 
