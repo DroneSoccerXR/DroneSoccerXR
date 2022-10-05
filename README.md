@@ -26,22 +26,18 @@ What are the dream goal directions of this project for now :
 
 ## 👋 Hi, Context ?
 
-We are Éloi and Johan.   
-He, Johan, love drone, teaching and VR.  
-I, Eloi, love code, teaching and XR.  
+👋 Hi, Context ?
 
-After a talk about creating an application on the Lynx R1, Johan explained me that he is working on the creation of a community around Drone Soccer.  
-I know nothing about drone but the challenge of creating a eSport game on Lynx-R1 that we could create around virtual pratice to real world application triggered my curiosity.  
-You can find in this GitHub account our collaboration on this goal.  
+This project is a collaboration between Éloi and Johan.
+ 
+After a talk about creating an application on the Lynx R1, Johan explained that he is working on the creation of a community around Drone Soccer.
 
-> I am usually a 100% free and opensource creator under Beerware license.
-> But as it is a collaboration that implies a group of people.
-> No license are apply here yet, so no authorization is given unless you contact Johan directly
+The challenge of creating an eSport game on Lynx-R1 that could allows a virtual patrice to real world application triggered our curiosity.
 
-Most of the repository here are going to be code to use in Unity with in direct link to Drone Soccer.  
-We could do plenty of other drone topic, but to avoid spreading around and never finish this project, it is going to be mainly Drone Soccer.  
+Drone Soccer XR is an attempt of creating an mixed reality experiments around the Drone Soccer world wide eSport that you can find here: https://www.fai.org/drone-sports-soccer
 
-We hope you enjoy.   
+The main goal is to help people that want to learn how to fly drone and programmer that want to learn how to pilote drone.
+
 
 Contact us: 
 - 💬 Community Discord: https://discord.gg/anwTwhExb5
