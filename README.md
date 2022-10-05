@@ -26,8 +26,6 @@ What are the dream goal directions of this project for now :
 
 ## 👋 Hi, Context ?
 
-👋 Hi, Context ?
-
 This project is a collaboration between Éloi and Johan.
  
 After a talk about creating an application on the Lynx R1, Johan explained that he is working on the creation of a community around Drone Soccer.
